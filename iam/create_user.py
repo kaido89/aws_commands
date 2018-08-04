@@ -2,6 +2,7 @@
 
 import boto3
 
+
 def main():
     # client= @@
     # response = client.create_user(
